@@ -4,7 +4,11 @@ Who lived in a quarry
 And had all the glory
 
 WILL THIS CREATE AN ERROR
+<<<<<<< HEAD
 OH THE BAD Jingles
+=======
+OH THE TERROR OF RHYMES
+>>>>>>> BadCharacter
 
 And then came Phil
 Who lived on a hill
